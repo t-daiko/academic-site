@@ -56,6 +56,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Zo0X37wAAAAJ
+
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -73,7 +74,7 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 Taro Daiko is a Ph.D student of innovation science at Tokyo Institute of Technology. His research interests include innovation management, data analysis and intellectual properties. He is a R enthusiast, and love to do data wrangling with patent and academic paper data.
 
