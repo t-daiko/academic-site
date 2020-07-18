@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "First Post"
-subtitle: ""
+title: "Google Trends with gtrendsR"
+subtitle: "R package"
 summary: ""
 authors: []
 tags: []
@@ -27,7 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-# Hello World
-This is first post via Hugo Academic Theme.
+# Introduction
+Google trends is an useful service to observe trends of web search keywords. You can use the service on the web, but I am a big fan of R. Thus, I decided to find R packages to access Google trends.
+
+After my search, gtrendsR seems first choice. It's simple and easy to get Google trends info. Besides, It can plot trends line charts so quickly. I love this package.
+
+I share my Rmarkdown example below.
 
 {{% staticref "files/gtrendR.html" %}}Link to gtrendsR{{% /staticref %}}
